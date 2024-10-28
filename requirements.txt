@@ -1,0 +1,9 @@
+# required libraries 
+# use jupyter notebook
+pandas 
+numpy 
+sklearn 
+matplotlib 
+seaborn 
+xgboost 
+imblearn
